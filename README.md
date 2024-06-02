@@ -17,9 +17,9 @@
 ### Manual Installation
 
 1. Download the plugin zip file and extract its contents.
-2. Upload the `yash-website-custom-plugin` directory to the `/wp-content/plugins/` directory of your WordPress site.
+2. Upload the `my-WP-custom-plugin` directory to the `/wp-content/plugins/` directory of your WordPress site.
 3. Navigate to the `Plugins` page in your WordPress dashboard.
-4. Locate `Yash Website Custom Plugin` in the list and click `Activate`.
+4. Locate `my WP custom Plugin` in the list and click `Activate`.
 
 ## Usage
 
