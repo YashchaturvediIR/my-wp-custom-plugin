@@ -1,8 +1,8 @@
-# Yash Website Custom Plugin
+# my WP custom Plugin
 
 ## Description
 
-**Yash Website Custom Plugin** is a WordPress plugin designed to disable the Admin Bar for all users. The WordPress Admin Bar provides handy links to several key functions such as the ability to add new posts and pages, but sometimes it might be necessary to hide it for a cleaner user interface.
+** my WP custom Plugin** is a WordPress plugin designed to disable the Admin Bar for all users. The WordPress Admin Bar provides handy links to several key functions such as the ability to add new posts and pages, but sometimes it might be necessary to hide it for a cleaner user interface.
 
 ## Installation
 
@@ -30,7 +30,7 @@ Once the plugin is activated, the WordPress Admin Bar will be disabled for all u
 
 ### Version 1.0
 
-- Initial release of Yash Website Custom Plugin.
+- Initial release of my WP custom Plugin.
 - Functionality to disable the WordPress Admin Bar for all users.
 
 
