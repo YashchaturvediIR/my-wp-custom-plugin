@@ -32,7 +32,3 @@ Once the plugin is activated, the WordPress Admin Bar will be disabled for all u
 
 - Initial release of my WP custom Plugin.
 - Functionality to disable the WordPress Admin Bar for all users.
-
-
-If you have any issues or questions, please feel free to contact [Your Name] at [Your Email].
-
